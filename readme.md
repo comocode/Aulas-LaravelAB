@@ -1,14 +1,15 @@
 ## Laravel AB Demo
 
-Este repositório tem o demo exibida em <title>
+Este repositório tem o demo exibida em Melhorando a experiência do usuário - Testes A / B em Laravel & Blade
 
-git@github.com:comocode/Aulas-LaravelAB.git <rota/de/uma/pasta>
+git@github.com:comocode/Aulas-LaravelAB.git  &lt;rota/de/uma/pasta&gt;
 
-cd <rota/de/uma/pasta>
+cd  &lt;rota/de/uma/pasta&gt;
 
 php artisan ab:migrate
 
-http://<projecturl>/
+http://&lt;projecturl&gt;/
 
 olhe dentro de views/home.blade.php e views/livros/show.blade.php
+
 
