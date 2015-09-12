@@ -2,7 +2,7 @@
 
 Este repositório tem o demo exibida em Melhorando a experiência do usuário - Testes A / B em Laravel & Blade
 
-git@github.com:comocode/Aulas-LaravelAB.git  &lt;rota/de/uma/pasta&gt;
+git clone git@github.com:comocode/Aulas-LaravelAB.git  &lt;rota/de/uma/pasta&gt;
 
 cd  &lt;rota/de/uma/pasta&gt;
 
